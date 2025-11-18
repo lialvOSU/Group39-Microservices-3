@@ -87,4 +87,4 @@ node server.js
 ```
 
 ## 3. UML Sequence Diagram – Search Microservice
-![UML Diagram](./UML-SEQUENCE-3.jpg)
+![UML Diagram](./UML-SEQUENCE-3(2).jpg)
