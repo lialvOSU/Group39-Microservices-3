@@ -85,3 +85,6 @@ http://localhost:5000/login
 ```text
 node server.js
 ```
+
+## 3. UML Sequence Diagram – Search Microservice
+![UML Diagram](./UML-SEQUENCE-3.jpg)
